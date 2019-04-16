@@ -1,3 +1,4 @@
+//Summer Klimko
 kangaroo = [0,0]
 flower = [0,3]
 
